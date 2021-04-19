@@ -1,9 +1,9 @@
-# BIO609_2020
+# BIO609_2021
 
 ## Introduction to UNIX/Linux and Bash Scripting
 
-University of Zurich, Nov 9th, 2020
+University of Zurich, April 20th, 2021
 
 URPP "Evolution in action"
 
-![logo](https://github.com/carlalbc/BIO609_2020/blob/master/Logo_URPP_kl2.png)
+![logo](https://github.com/carlalbc/BIO609_2021/blob/master/Logo_URPP_kl2.png)
